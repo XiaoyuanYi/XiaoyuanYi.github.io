@@ -1,8 +1,11 @@
-I"{<h2 id="bio">Bio</h2>
+I"„<h2 id="bio">Bio</h2>
 
 <p><img class="profile-picture" src="me.jpg" /></p>
 
 <p>Xiaoyuan Yi is a PhD Student at the Department of Computer Science and Technology, Tsinghua University. Xiaoyuan received his BS degree in 2016 from Tsinghua University. His research focuses on deep learning applied to natural language processing, automatic text generation and grammar error correction. He has published over 10 papers in leading NLP/AI conferences including AAAI, IJCAI, ACL, EMNLP, CoNLL, etc.</p>
+
+<p>Email: yi-xy16@mails.tsinghua.edu.cn
+Address: FIT Building, Tsinghua University, Beijing, 100084</p>
 
 <h2 id="code-and-systems">Code and Systems</h2>
 
@@ -20,7 +23,7 @@ Instance Supported Latent Space. In <em>Proceedings of IJCAI 2020</em>. <strong>
   </li>
   <li>
     <p><strong>Xiaoyuan Yi</strong>, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun. 2020. MixPoet: Diverse Poetry
-Generation via Learning Controllable Mixed Latent Space. In <em>Proceedings of AAAI 2020</em>. <strong>(CCF Rank A)</strong> <a href="papers/aaai20_mixpoet.pdf">[paper]</a> <a href="papers/aaai20_mixpoet.pdf">[paper]</a></p>
+Generation via Learning Controllable Mixed Latent Space. In <em>Proceedings of AAAI 2020</em>. <strong>(CCF Rank A)</strong> <a href="papers/aaai20_mixpoet.pdf">[paper]</a> <a href="slides/mixpoet.pdf">[slides]</a> <a href="https://www.bilibili.com/video/BV1Sz4y1Q7WM">[video in Chinese]</a></p>
   </li>
   <li>
     <p>Zhipeng Guo, <strong>Xiaoyuan Yi</strong>, Maosong Sun, Wenhao Li, Cheng Yang, Jiannan Liang, Huimin Chen,
@@ -41,14 +44,14 @@ Jiju Poetry Generation. 2019. In <em>Journal of Chinese Information processing</
   </li>
   <li>
     <p><strong>Xiaoyuan Yi</strong>, Maosong Sun, Ruoyu Li, and Wenhao Li. 2018. Automatic Poetry Generation with Mutual
-Reinforcement Learning. In <em>Proceedings of EMNLP 2018</em>. <strong>(CCF Rank B)</strong> <a href="papers/emnlp18_mrl.pdf">[paper]</a>  <a href="https://vimeo.com/305925622">[video]</a></p>
+Reinforcement Learning. In <em>Proceedings of EMNLP 2018</em>. <strong>(CCF Rank B)</strong> <a href="papers/emnlp18_mrl.pdf">[paper]</a> <a href="slides/mrlpoetry.pdf">[slides]</a> <a href="https://vimeo.com/305925622">[video]</a></p>
   </li>
   <li>
     <p>Cheng Yang, Maosong Sun, <strong>Xiaoyuan Yi</strong>, and Wenhao Li. 2018. Stylistic Chinese Poetry Generation via
 Unsupervised Style Disentanglement. In <em>Proceedings of EMNLP 2018</em>. <strong>(CCF Rank B)</strong> <a href="papers/emnlp18_uspg.pdf">[paper]</a></p>
   </li>
   <li>
-    <p><strong>Xiaoyuan Yi</strong>, Ruoyu Li and Maosong Sun. 2018. Chinese Poetry Generation with a Salient-Clue Mechanism. In <em>Proceedings of CoNLL 2018</em>. <strong>(CCF Rank C)</strong> <a href="papers/conll18_salinet.pdf">[paper]</a></p>
+    <p><strong>Xiaoyuan Yi</strong>, Ruoyu Li and Maosong Sun. 2018. Chinese Poetry Generation with a Salient-Clue Mechanism. In <em>Proceedings of CoNLL 2018</em>. <strong>(CCF Rank C)</strong> <a href="papers/conll18_salinet.pdf">[paper]</a> <a href="slides/salientclue.pdf">[slides]</a></p>
   </li>
   <li>
     <p><strong>Xiaoyuan Yi</strong>, Maosong Sun, Ruoyu Li and Zonghan Yang. 2018. Chinese Poetry Generation with a Working

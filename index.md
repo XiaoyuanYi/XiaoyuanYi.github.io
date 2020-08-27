@@ -8,6 +8,10 @@ layout: default
 
 Xiaoyuan Yi is a PhD Student at the Department of Computer Science and Technology, Tsinghua University. Xiaoyuan received his BS degree in 2016 from Tsinghua University. His research focuses on deep learning applied to natural language processing, automatic text generation and grammar error correction. He has published over 10 papers in leading NLP/AI conferences including AAAI, IJCAI, ACL, EMNLP, CoNLL, etc.
 
+Email: yi-xy16@mails.tsinghua.edu.cn
+
+Address: FIT Building, Tsinghua University, Beijing, 100084
+
 ## Code and Systems
 
 * [**Jiuge (九歌)**](http://jiuge.thunlp.org/): an online Chinese poetry generation system
@@ -19,7 +23,7 @@ Xiaoyuan Yi is a PhD Student at the Department of Computer Science and Technolog
 Instance Supported Latent Space. In *Proceedings of IJCAI 2020*. **(CCF Rank A)** [[paper]](papers/ijcai20_styins.pdf)
 
 * **Xiaoyuan Yi**, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun. 2020. MixPoet: Diverse Poetry
-Generation via Learning Controllable Mixed Latent Space. In *Proceedings of AAAI 2020*. **(CCF Rank A)** [[paper]](papers/aaai20_mixpoet.pdf) [[slides]](slides/mixpoet.pdf)
+Generation via Learning Controllable Mixed Latent Space. In *Proceedings of AAAI 2020*. **(CCF Rank A)** [[paper]](papers/aaai20_mixpoet.pdf) [[slides]](slides/mixpoet.pdf) [[video in Chinese]](https://www.bilibili.com/video/BV1Sz4y1Q7WM)
 
 * Zhipeng Guo, **Xiaoyuan Yi**, Maosong Sun, Wenhao Li, Cheng Yang, Jiannan Liang, Huimin Chen,
 Yuhui Zhang and Ruoyu Li. 2019. Jiuge: A Human-Machine Collaborative Chinese Classical Poetry
