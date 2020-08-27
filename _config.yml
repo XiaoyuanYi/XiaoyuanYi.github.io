@@ -1,7 +1,7 @@
 title: Xiaoyuan Yi's Homepage
 name: Xiaoyuan Yi
 url: "https://xiaoyuanyi.github.io/"
-baseurl: "/researcher"
+baseurl:
 
 markdown: kramdown
 
