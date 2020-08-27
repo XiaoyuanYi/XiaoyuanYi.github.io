@@ -1,0 +1,89 @@
+I"|<h2 id="bio">Bio</h2>
+
+<p><img class="profile-picture" src="me.jpg" /></p>
+
+<p>Xiaoyuan Yi is a PhD Student at the Department of Computer Science and Technology, Tsinghua University. Xiaoyuan received his BS degree in 2016 from Tsinghua University. His research focuses on deep learning applied to natural language processing, automatic text generation and grammar error correction. He has published over 10 papers in leading NLP/AI conferences including AAAI, IJCAI, ACL, EMNLP, CoNLL, etc.</p>
+
+<h2 id="code-and-systems">Code and Systems</h2>
+
+<ul>
+  <li><a href="http://jiuge.thunlp.org/"><strong>Jiuge (九歌)</strong></a>: an online Chinese poetry generation system</li>
+  <li><a href="https://github.com/THUNLP-AIPoet"><strong>THUNLP-AIPoet</strong></a>: open-source poetry generation models and resources</li>
+</ul>
+
+<h2 id="publications">Publications</h2>
+
+<ul>
+  <li>
+    <p><strong>Xiaoyuan Yi</strong>, Zhenghao Liu, Wenhao Li and Maosong Sun. 2020. Text Style Transfer via Learning Style
+Instance Supported Latent Space. In <em>Proceedings of IJCAI 2020</em>. <strong>(CCF Rank A)</strong> <a href="papers/ijcai20_styins.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p><strong>Xiaoyuan Yi</strong>, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun. 2020. MixPoet: Diverse Poetry
+Generation via Learning Controllable Mixed Latent Space. In <em>Proceedings of AAAI 2020</em>. <strong>(CCF Rank A)</strong> <a href="papers/aaai20_mixpoet.pdf">[paper]</a> <a href="slides/aaai20_mixpoet.pdf">[slides]</a></p>
+  </li>
+  <li>
+    <p>Zhipeng Guo, <strong>Xiaoyuan Yi</strong>, Maosong Sun, Wenhao Li, Cheng Yang, Jiannan Liang, Huimin Chen,
+Yuhui Zhang and Ruoyu Li. 2019. Jiuge: A Human-Machine Collaborative Chinese Classical Poetry
+Generation System. In <em>Proceedings of ACL 2019</em>. Demo Paper. <strong>(Co-first Author, CCF Rank A)</strong> <a href="papers/acl19_demo.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p>Huimin Chen, <strong>Xiaoyuan Yi</strong>, Maosong Sun, Wenhao Li, Cheng Yang and Zhipeng Guo. 2019.
+Sentiment-Controllable Chinese Poetry Generation. In <em>Proceedings of IJCAI 2019</em>. <strong>(Co-first Author, CCF Rank A)</strong> <a href="papers/ijcai19_sentiment.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p>Jiannan Liang, Maosong Sun, <strong>Xiaoyuan Yi</strong>. 2019. Neural Network-Based Poetry Retrieval. In <em>Proceedings of the
+Eighteenth Conference of Chinese Computational Linguistics (CCL 2019)</em>. (in Chinese) <a href="papers/ccl19_poetryir.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p>Jiannan Liang, Maosong Sun, <strong>Xiaoyuan Yi</strong>, Cheng Yang, Huimin Chen and Zhenghao Liu. Neural Network-Based
+Jiju Poetry Generation. 2019. In <em>Journal of Chinese Information processing</em>, 33 (3): 126–135. (in Chinese) <a href="papers/jiju.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p><strong>Xiaoyuan Yi</strong>, Maosong Sun, Ruoyu Li, and Wenhao Li. 2018. Automatic Poetry Generation with Mutual
+Reinforcement Learning. In <em>Proceedings of EMNLP 2018</em>. <strong>(CCF Rank B)</strong> <a href="papers/emnlp18_mrl.pdf">[paper]</a>  <a href="https://vimeo.com/305925622">[video]</a></p>
+  </li>
+  <li>
+    <p>Cheng Yang, Maosong Sun, <strong>Xiaoyuan Yi</strong>, and Wenhao Li. 2018. Stylistic Chinese Poetry Generation via
+Unsupervised Style Disentanglement. In <em>Proceedings of EMNLP 2018</em>. <strong>(CCF Rank B)</strong> <a href="papers/emnlp18_uspg.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p><strong>Xiaoyuan Yi</strong>, Ruoyu Li and Maosong Sun. 2018. Chinese Poetry Generation with a Salient-Clue Mechanism. In <em>Proceedings of CoNLL 2018</em>. <strong>(CCF Rank C)</strong> <a href="papers/conll18_salinet.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p><strong>Xiaoyuan Yi</strong>, Maosong Sun, Ruoyu Li and Zonghan Yang. 2018. Chinese Poetry Generation with a Working
+Memory Model. In <em>Proceedings of IJCAI 2018</em>. <strong>(CCF Rank A)</strong> <a href="papers/ijcai18_wm.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p><strong>Xiaoyuan Yi</strong>, Ruoyu Li and Maosong Sun. 2017. Generating Chinese Classical Poems with RNN Encoder-Decoder.
+In <em>Proceedings of the Sixteenth Conference of Chinese Computational Linguistics (CCL 2017)</em>. <a href="papers/ccl17_gru.pdf">[paper]</a></p>
+  </li>
+  <li>
+    <p>Boya Wu, Jia Jia, Tao He, Juan Du, <strong>Xiaoyuan Yi</strong> and Yishuang Ning. 2016. Inferring Users’ Emotions for Human-
+mobile Voice Dialogue Applications. In <em>Proceedings of ICME 2016</em>. <strong>(CCF Rank B)</strong></p>
+  </li>
+</ul>
+
+<h2 id="talks">Talks</h2>
+
+<ul>
+  <li>Jiuge: a deep learning based Chinese classical poetry generation system. (in Chinese). 2018. <a href="slides/jiuge.pdf">[slides]</a> <a href="https://mooc.yanxishe.com/open/course/545?=Leiphone">[video]</a></li>
+</ul>
+
+<h2 id="awards">Awards</h2>
+
+<ul>
+  <li>2019 Siebel Scholar</li>
+  <li>2019 Best Demo Award, CCL 19 (Jiuge System V2.0)</li>
+  <li>2018 Best Paper Award, CCL 18 (with Jiannan Liang as the first author)</li>
+  <li>2018 First Class Scholarship for Graduate Students, Tsinghua University</li>
+  <li>2017 Best Demo Award, CCL 17 (Jiuge System V1.0)</li>
+  <li>2016 Excellent Undergraduate Thesis, Tsinghua University</li>
+  <li>2016 Excellent Graduate, Beijing City</li>
+  <li>2015 Supreme Scholarship for the Undergraduate, Tsinghua University</li>
+  <li>2014 Second Place of School Debate Competition, Tsinghua University</li>
+  <li>2013 Personal Gold Award for Summer Practice, Tsinghua University</li>
+</ul>
+
+<hr />
+:ET

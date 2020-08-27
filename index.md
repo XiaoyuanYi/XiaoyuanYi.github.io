@@ -19,7 +19,7 @@ Xiaoyuan Yi is a PhD Student at the Department of Computer Science and Technolog
 Instance Supported Latent Space. In *Proceedings of IJCAI 2020*. **(CCF Rank A)** [[paper]](papers/ijcai20_styins.pdf)
 
 * **Xiaoyuan Yi**, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun. 2020. MixPoet: Diverse Poetry
-Generation via Learning Controllable Mixed Latent Space. In *Proceedings of AAAI 2020*. **(CCF Rank A)** [[paper]](papers/aaai20_mixpoet.pdf)
+Generation via Learning Controllable Mixed Latent Space. In *Proceedings of AAAI 2020*. **(CCF Rank A)** [[paper]](papers/aaai20_mixpoet.pdf) [[slides]](slides/mixpoet.pdf)
 
 * Zhipeng Guo, **Xiaoyuan Yi**, Maosong Sun, Wenhao Li, Cheng Yang, Jiannan Liang, Huimin Chen,
 Yuhui Zhang and Ruoyu Li. 2019. Jiuge: A Human-Machine Collaborative Chinese Classical Poetry
@@ -35,12 +35,12 @@ Eighteenth Conference of Chinese Computational Linguistics (CCL 2019)*. (in Chin
 Jiju Poetry Generation. 2019. In *Journal of Chinese Information processing*, 33 (3): 126–135. (in Chinese) [[paper]](papers/jiju.pdf)
 
 * **Xiaoyuan Yi**, Maosong Sun, Ruoyu Li, and Wenhao Li. 2018. Automatic Poetry Generation with Mutual
-Reinforcement Learning. In *Proceedings of EMNLP 2018*. **(CCF Rank B)** [[paper]](papers/emnlp18_mrl.pdf)
+Reinforcement Learning. In *Proceedings of EMNLP 2018*. **(CCF Rank B)** [[paper]](papers/emnlp18_mrl.pdf) [[slides]](slides/mrlpoetry.pdf) [[video]](https://vimeo.com/305925622)
 
 * Cheng Yang, Maosong Sun, **Xiaoyuan Yi**, and Wenhao Li. 2018. Stylistic Chinese Poetry Generation via
 Unsupervised Style Disentanglement. In *Proceedings of EMNLP 2018*. **(CCF Rank B)** [[paper]](papers/emnlp18_uspg.pdf)
 
-* **Xiaoyuan Yi**, Ruoyu Li and Maosong Sun. 2018. Chinese Poetry Generation with a Salient-Clue Mechanism. In *Proceedings of CoNLL 2018*. **(CCF Rank C)** [[paper]](papers/conll18_salinet.pdf)
+* **Xiaoyuan Yi**, Ruoyu Li and Maosong Sun. 2018. Chinese Poetry Generation with a Salient-Clue Mechanism. In *Proceedings of CoNLL 2018*. **(CCF Rank C)** [[paper]](papers/conll18_salinet.pdf) [[slides]](slides/salientclue.pdf)
 
 * **Xiaoyuan Yi**, Maosong Sun, Ruoyu Li and Zonghan Yang. 2018. Chinese Poetry Generation with a Working
 Memory Model. In *Proceedings of IJCAI 2018*. **(CCF Rank A)** [[paper]](papers/ijcai18_wm.pdf)
@@ -53,30 +53,19 @@ mobile Voice Dialogue Applications. In *Proceedings of ICME 2016*. **(CCF Rank B
 
 ## Talks
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* Jiuge: a deep learning based Chinese classical poetry generation system. (in Chinese). 2018. [[slides]](slides/jiuge.pdf) [[video]](https://mooc.yanxishe.com/open/course/545?=Leiphone)
 
 ## Awards
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* 2019 Siebel Scholar
+* 2019 Best Demo Award, CCL 19 (Jiuge System V2.0)
+* 2018 Best Paper Award, CCL 18 (with Jiannan Liang as the first author)
+* 2018 First Class Scholarship for Graduate Students, Tsinghua University
+* 2017 Best Demo Award, CCL 17 (Jiuge System V1.0)
+* 2016 Excellent Undergraduate Thesis, Tsinghua University
+* 2016 Excellent Graduate, Beijing City
+* 2015 Supreme Scholarship for the Undergraduate, Tsinghua University
+* 2014 Second Place of School Debate Competition, Tsinghua University
+* 2013 Personal Gold Award for Summer Practice, Tsinghua University
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
+--------------
