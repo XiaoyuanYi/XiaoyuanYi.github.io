@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Xiaoyuan Yi is a PhD Student at the Department of Computer Science and Technology, Tsinghua University. Xiaoyuan received his BS degree in 2016 from Tsinghua University. His research focuses on deep learning applied to natural language processing, automatic text generation and grammar error correction. He has published over 10 papers in leading NLP/AI conferences including AAAI, IJCAI, ACL, EMNLP, CoNLL, etc.
+Xiaoyuan Yi is a PhD Student at the Department of Computer Science and Technology, Tsinghua University. Xiaoyuan received his BS degree in 2016 from Tsinghua University. His research focuses on deep learning applied to natural language processing, automatic text generation and grammar error correction. He has published over 10 papers in important NLP/AI conferences including AAAI, IJCAI, ACL, EMNLP, CoNLL, CCL, etc.
 
 Email: yi-xy16@mails.tsinghua.edu.cn
 
@@ -56,7 +56,7 @@ In *Proceedings of the Sixteenth Conference of Chinese Computational Linguistics
 mobile Voice Dialogue Applications. In *Proceedings of ICME 2016*. **(CCF Rank B)**
 
 ## Talks
-
+* An Introduction of Text Generation and Decoding Algorithms. (in Chinese). 2020. In Chinese Association for Artificial Intelligence (CAAI 2020), Academic Exchange Session for Youth Professionals. [[slides]](slides/text_generation.pdf) 
 * Jiuge: a deep learning based Chinese classical poetry generation system. (in Chinese). 2018. [[slides]](slides/jiuge.pdf) [[video]](https://mooc.yanxishe.com/open/course/545?=Leiphone)
 
 ## Awards
