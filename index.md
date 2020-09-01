@@ -56,7 +56,7 @@ In *Proceedings of the Sixteenth Conference of Chinese Computational Linguistics
 mobile Voice Dialogue Applications. In *Proceedings of ICME 2016*. **(CCF Rank B)**
 
 ## Talks
-* An Introduction of Text Generation and Decoding Algorithms. (in Chinese). 2020. In Chinese Association for Artificial Intelligence (CAAI 2020), Academic Exchange Session for Youth Professionals. [[slides]](slides/text_generation.pdf) 
+* An Introduction of Text Generation and Decoding Algorithms.  2020. In Chinese Association for Artificial Intelligence (CAAI 2020), Academic Exchange Session for Youth Professionals. (in Chinese).  [[slides]](slides/text_generation.pdf) 
 * Jiuge: a deep learning based Chinese classical poetry generation system. (in Chinese). 2018. [[slides]](slides/jiuge.pdf) [[video]](https://mooc.yanxishe.com/open/course/545?=Leiphone)
 
 ## Awards
