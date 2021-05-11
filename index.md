@@ -19,6 +19,8 @@ Address: FIT Building, Tsinghua University, Beijing, 100084
 
 ## Publications
 
+* Zhenghao Liu, **Xiaoyuan Yi**, Maosong Sun, Liner Yang, Tat-Seng Chua. 2021. Neural Quality Estimation with Multiple Hypotheses for Grammatical Error Correction. In *Proceedings of NAACL 2021*. **(CCF Rank C)** [[paper]](https://arxiv.org/pdf/2105.04443.pdf)
+
 * **Xiaoyuan Yi**, Zhenghao Liu, Wenhao Li and Maosong Sun. 2020. Text Style Transfer via Learning Style
 Instance Supported Latent Space. In *Proceedings of IJCAI 2020*. **(CCF Rank A)** [[paper]](papers/ijcai20_styins.pdf)
 
